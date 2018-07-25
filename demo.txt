@@ -1,4 +1,6 @@
-aaaaaa
-bbbbbb
-cccccc
-dddddd
+#include<stdio.h>
+
+void main()
+{
+     printf("Hello");
+}
